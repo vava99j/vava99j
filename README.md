@@ -1,0 +1,5 @@
+- 👋 Olá, meu nome é @vava99j
+- 👀 Tenho interesse em Java e backend
+- 🌱 Atualmente estou aprendendo C#, Java/TypeScript, PHP, HTML e MySQL
+- 💞️ Estou procurando colaborar em...
+- 📫 Como entrar em contato comigo: +55 11 953051805

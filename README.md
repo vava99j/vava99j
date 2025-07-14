@@ -1,49 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Arial, sans-serif;
-      background: #f8fafc;
-      color: #22223b;
-      margin: 0;
-      padding: 0 20px;
-    }
-    h1 {
-      color: #2d6a4f;
-      font-size: 2.5rem;
-      margin-top: 30px;
-      margin-bottom: 10px;
-      text-align: center;
-      letter-spacing: 1px;
-    }
-    h3 {
-      color: #40916c;
-      font-size: 1.4rem;
-      margin-bottom: 10px;
-      margin-top: 30px;
-      text-align: left;
-      letter-spacing: 0.5px;
-    }
-    p, a {
-      font-size: 1.1rem;
-      line-height: 1.6;
-    }
-    a {
-      color: #1d3557;
-      text-decoration: none;
-      transition: color 0.2s;
-    }
-    a:hover {
-      color: #52b788;
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
 <h1 align="center">ola meu nome é Vagner Jorge Souza Feitosa</h1>
 <h3 align="center">Desenvolvedor node e full stack</h3>
 
@@ -70,5 +24,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</body>
-</html>

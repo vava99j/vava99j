@@ -2,7 +2,7 @@
   ola meu nome é Vagner Jorge Souza Feitosa
 </h1>
 <h3 align="center" style="color:#40916c;;font-size:1.4rem; margin-bottom:10px; margin-top:30px; text-align:center; letter-spacing:0.5px; font-family:'Segoe UI',Arial,sans-serif;">
-  Dev full stack
+  Dev full stack/mobile cross-platform
 </h3>
 
 

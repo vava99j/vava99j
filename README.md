@@ -17,7 +17,7 @@ Estudando na EtecJk atualmente<br>Procuranado me tornar colaborador<br>Aprendend
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vava99j&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Repo
-![](https://github-contributor-stats.vercel.app/api?username=vava99j&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vava99j&limit=5&theme=shadow_yellow&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vava99j&icon=0&color=0)](https://visitcount.itsvg.in)

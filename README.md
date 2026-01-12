@@ -1,5 +1,5 @@
-# 💫 Sobre:
-Estudando na EtecJk atualmente<br>Procuranado me tornar colaborador<br>Aprendendo novas formas de usar a tecnologia<br>
+# 💫 software engineer
+<br>Fanatico por inovações tecnilogicas e dedicado a criar soluções e facilitadores <br/>
 
 
 ## 🌐 Redes:

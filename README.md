@@ -1,5 +1,5 @@
 # 💫 software engineer
-<br>Fanatico por inovações tecnilogicas e dedicado a criar soluções novas<br/>
+<br>Fanático por inovações tecnologicas e dedicado a criar soluções novas<br/>
 
 
 ## 🌐 Redes:
